@@ -1,0 +1,657 @@
+{
+  "home": "Inicio",
+  "about_us": "Nosotros",
+  "solutions": "Soluciones",
+  "alliances": "Alianzas",
+  "privacy_navbar": "Privacidad",
+  "code_of_conduct_navbar": "Código de Conducta",
+  "support": "Soporte",
+  "blog": "Blog",
+  "more": "Más",
+  "demo": "Probar demo",
+  "sign_in": "Iniciar sesión",
+  "type_message": "Escribe tu mensaje...",
+  "welcome": {
+    "badge": "Plataforma de Inteligencia de Datos",
+    "title": "Protección y resilencia de Datos",
+    "subtitle": "En la nueva era digital, los datos son la materia prima que impulsa la innovación, la eficiencia y la rentabilidad empresarial.",
+    "quote_part1": "Hoy, las organizaciones generan más datos de los que pueden administrar.",
+    "quote_part2": "En DataSign gestionamos su ciclo de vida con precisión, asegurando la continuidad operativa y fortaleciendo la toma de decisiones.",
+    "cta_try_now": "Probar ahora"
+  },
+  "video": {
+    "title": "DataSign",
+    "subtitle": "LA TECNOLOGÍA DIGITAL EN MÉXICO",
+    "stat_internet_penetration": "Penetración de Internet",
+    "stat_internet_users": "Usuarios de Internet",
+    "stat_social_users": "Usuarios en Redes Sociales",
+    "source_label": "Fuente: Digital 2026 México",
+    "unsupported": "Tu navegador no soporta el video."
+  },
+  "whatsapp_online": "En línea",
+  "whatsapp_default_message": "Hola, Somos el equipo de DataSign, ¿Necesitas más información de nuestros servicios?",
+  "about": {
+    "title": "Sobre Nosotros",
+    "description": "En DataSign ayudamos a las organizaciones a gestionar, proteger y aprovechar mejor sus datos. Integramos soluciones de infraestructura, ciberresiliencia y gobierno de información para que las empresas operen con seguridad, eficiencia y continuidad. Nuestro enfoque es práctico, transparente y orientado a resultados.",
+    "mission": "Misión",
+    "missionContent": "Ayudar a las organizaciones a gestionar, proteger y aprovechar mejor sus datos mediante soluciones tecnológicas confiables, eficientes y orientadas a resultados.",
+    "vision": "Visión",
+    "visionContent": "Ser un referente en gestión y protección de datos, impulsando el crecimiento y la competitividad de nuestros clientes a través de tecnología clara, útil y de impacto real.",
+    "values": "Nuestros Valores",
+    "valuesContent": "Innovación, transparencia, compromiso y colaboración con nuestros clientes.",
+    "valuesList": {
+      "innovation": {
+        "title": "Innovación",
+        "content": "Buscamos siempre nuevas formas de mejorar, adoptando tecnologías y prácticas que aporten valor real a nuestros clientes."
+      },
+      "quality": {
+        "title": "Calidad",
+        "content": "Cuidamos cada detalle de lo que hacemos para ofrecer soluciones estables, seguras y de alto desempeño."
+      },
+      "service": {
+        "title": "Servicio",
+        "content": "Acompañamos a nuestros clientes con atención cercana, profesional y orientada a resolver."
+      },
+      "honesty": {
+        "title": "Honestidad",
+        "content": "Actuamos con transparencia, hablando siempre con la verdad y priorizando decisiones correctas y responsables."
+      },
+      "growth": {
+        "title": "Crecimiento Sostenible",
+        "content": "Construimos relaciones y soluciones duraderas, pensando en el largo plazo para clientes, colaboradores y socios."
+      }
+    },
+    "whyChooseUs": "¿Por qué elegir DataSing?",
+    "whyChooseUsContent": "Combinamos experiencia técnica con comprensión empresarial para ofrecer soluciones que realmente impulsan tu negocio hacia adelante.",
+    "tags": {
+      "technology": "Tecnología",
+      "innovation": "Innovación",
+      "solutions": "Soluciones",
+      "dataAnalytics": "Data Analytics"
+    },
+    "features": {
+    "advancedTech": "Tecnología Avanzada",
+    "security": "Seguridad", 
+    "innovation": "Innovación"
+  }
+  },
+    "features": {
+      "advancedTech": "💻 Tecnología Avanzada",
+      "security": "🔒 Seguridad",
+      "innovation": "🚀 Innovación"
+    },
+  "heroSection": {
+    "badge": "PLATAFORMA DE AUTOMATIZACIÓN CON IA",
+    "title": "THINKLAB",
+    "subtitle": "by DataSign",
+    "lead1": "Automatización inteligente con ",
+    "lead2": "agentes de IA",
+    "lead3": " integrados a tus procesos de negocio.",
+    "desc1a": "ThinkLab es la plataforma de DataSign diseñada para incorporar ",
+    "desc1b": "agentes de inteligencia artificial",
+    "desc1c": " en los flujos operativos de tu organización.",
+    "desc2a": "Conectamos tus sistemas, datos y procesos",
+    "desc2b": " con asistentes inteligentes que responden, ejecutan tareas y automatizan actividades repetitivas.",
+    "desc3a": "Todo con un front universal y sencillo: ",
+    "cta": "Comenzar Automatización"
+  },
+  "thinklab": {
+    "capabilities_section": {
+      "badge": "POTENCIA TU NEGOCIO",
+      "title": "Lo que habilita ThinkLab",
+      "description": "Descubre cómo nuestra plataforma transforma procesos complejos en experiencias simples y eficientes"
+    },
+    "capabilities": [
+      {
+        "title": "Integración de Agentes de IA",
+        "description": "Incorporamos inteligencia artificial en tus procesos operativos, administrativos y de atención para transformar tu negocio.",
+        "stats": [
+          "Multi-plataforma",
+          "Tiempo real",
+          "Escalable"
+        ]
+      },
+      {
+        "title": "Automatización Inteligente",
+        "description": "Automatizamos tareas, consultas, reportes y flujos internos con precisión y eficiencia excepcionales.",
+        "stats": [
+          "100% Automático",
+          "Sin errores",
+          "24/7 Activo"
+        ]
+      },
+      {
+        "title": "Procesamiento Cognitivo",
+        "description": "Capturamos, clasificamos y procesamos información con algoritmos de inteligencia artificial avanzada.",
+        "stats": [
+          "Análisis profundo",
+          "Aprendizaje continuo",
+          "Predicción precisa"
+        ]
+      },
+      {
+        "title": "Experiencias Conversacionales",
+        "description": "Ofrecemos interacciones naturales desde WhatsApp, web o aplicaciones internas con IA conversacional.",
+        "stats": [
+          "Multilenguaje",
+          "Contextual",
+          "Personalizado"
+        ]
+      },
+      {
+        "title": "Reducción de Errores",
+        "description": "Minimizamos errores operativos y reducimos la carga de trabajo en áreas críticas de tu organización.",
+        "stats": [
+          "99.9% Precisión",
+          "Cero fatiga",
+          "Auditable"
+        ]
+      },
+      {
+        "title": "Optimización Continua",
+        "description": "Aceleramos procesos y optimizamos recursos para maximizar la eficiencia y productividad.",
+        "stats": [
+          "10x velocidad",
+          "Escala infinita",
+          "Costos reducidos"
+        ]
+      }
+    ],
+    "whatsapp_section": {
+      "title": "Integración",
+      "description": "Accede a toda la potencia de ThinkLab directamente desde WhatsApp. Interactúa con agentes de IA, recibe reportes automatizados y gestiona procesos con solo enviar un mensaje.",
+      "features": [
+        "Respuestas instantáneas",
+        "Multimedia inteligente",
+        "Contexto de conversación",
+        "Integración API"
+      ],
+      "cta": "Solicitar Demo por WhatsApp"
+    }
+  },
+  "carousel": {
+    "title": "Nuestros",
+    "partners": "Partners",
+    "subtitle": "Colaboramos con las mejores herramientas y tecnologías para ofrecer soluciones innovadoras y de calidad.",
+    "brands_meet": "Donde las mejores marcas se encuentran.",
+    "instruction": "Pasa el cursor sobre cualquier logo para ver detalles"
+  },
+  "tech_infrastructure": "Infraestructura de Tecnologías de la Información",
+  "specialized_services": "Servicios Especializados",
+  "datasign_solution": "Una solucion para cada uno de tus problemas",
+  "services": {
+    "nimboxe_video": "Descubre cómo transformamos la gestión de datos empresariales",
+    "nimboxe_benefits": {
+      "availability": "Disponibilidad",
+      "savings": "Ahorro en Costos",
+      "support": "Soporte"
+    },
+    "hero": {
+      "tech_badge": "TECNOLOGÍA DE VANGUARDIA",
+      "main_title": "Infraestructura",
+      "subtitle": "& Nube Inteligente",
+      "description": "Para la <strong>Continuidad del Negocio</strong>",
+      "content": "En alianza con <strong>EdgeNet</strong> y <strong>Wasabi</strong>, <strong>Nimboxe</strong> redefine la resiliencia tecnológica empresarial, integrando servicios de almacenamiento, respaldo, infraestructura y recuperación ante desastres en una red nacional de centros de datos de última generación.",
+      "mission": "Nuestra misión: <strong>garantizar disponibilidad continua</strong>, baja latencia y protección total de los datos críticos que sustentan la operación de tu negocio.",
+      "cta_primary": "Comenzar Ahora",
+      "cta_secondary": "Solicitar Demo"
+    },
+    "services_section": {
+      "title": "Nuestros Servicios",
+      "subtitle": "Soluciones integrales diseñadas para la <strong>era digital</strong>",
+      "infrastructure": {
+        "title": "Infraestructura",
+        "description": "Centros de datos de última generación con redundancia y alta disponibilidad",
+        "features": {
+          "0": "Centros de datos Tier III y IV",
+          "1": "Redundancia de energía y cooling",
+          "2": "Conectividad multi-carrier",
+          "3": "SLA 99.99% de disponibilidad"
+        }
+      },
+      "cloud": {
+        "title": "Nube Inteligente",
+        "description": "Soluciones cloud híbridas y multi-nube para máxima flexibilidad",
+        "features": {
+          "0": "Almacenamiento multi-región",
+          "1": "Plataforma de contenedores",
+          "2": "Orquestación automática",
+          "3": "Escalabilidad bajo demanda"
+        }
+      },
+      "backup": {
+        "title": "Respaldo & DR",
+        "description": "Protección continua de datos y recuperación ante desastres",
+        "features": {
+          "0": "Backup automático 3-2-1",
+          "1": "Recuperación instantánea",
+          "2": "Replicación en tiempo real",
+          "3": "RTO/RTO optimizados"
+        }
+      },
+      "security": {
+        "title": "Seguridad",
+        "description": "Protección integral con múltiples capas de seguridad",
+        "features": {
+          "0": "Cifrado end-to-end",
+          "1": "Compliance SOC-2/ISO27001",
+          "2": "DDoS protection",
+          "3": "Monitoreo 24/7"
+        }
+      },
+      "explore_service": "Explorar Servicio"
+    },
+    "partners_section": {
+      "title": "Alianzas Estratégicas",
+      "subtitle": "Colaboramos con los <strong>mejores</strong> para ofrecerte soluciones de clase mundial",
+      "edgenet": {
+        "description": "Líder en conectividad de baja latencia y edge computing",
+        "benefits": {
+          "0": "Red nacional de fibra óptica",
+          "1": "Edge locations estratégicas",
+          "2": "Baja latencia garantizada"
+        }
+      },
+      "wasabi": {
+        "description": "Almacenamiento en la nube de alto rendimiento y bajo costo",
+        "benefits": {
+          "0": "Compatibilidad con S3",
+          "1": "Costo predecible",
+          "2": "Alta velocidad de transferencia"
+        }
+      }
+    },
+    "benefits_section": {
+      "title": "Beneficios Clave",
+      "subtitle": "Diseñado para el <strong>futuro</strong> de tu negocio",
+      "availability": {
+        "title": "Disponibilidad Continua",
+        "description": "Garantizamos el funcionamiento ininterrumpido de tus operaciones críticas con SLAs de hasta 99.99%"
+      },
+      "latency": {
+        "title": "Baja Latencia",
+        "description": "Red nacional de centros de datos edge para aplicaciones sensibles al rendimiento"
+      },
+      "protection": {
+        "title": "Protección Total",
+        "description": "Seguridad multicapa y estrategias de recuperación ante desastres probadas"
+      }
+    },
+    "cta_section": {
+      "title": "¿Listo para el <strong>Futuro</strong>?",
+      "description": "Descubre cómo nuestras soluciones pueden garantizar la continuidad de tu negocio mientras reduces costos y mejora la seguridad.",
+      "primary": "Contactar Ventas",
+      "secondary": "Agenda una Demo"
+    }
+  },
+  "alliances_section": {
+    "hero_subtitle": "Colaboramos con los líderes tecnológicos para ofrecer soluciones integrales y especializadas que impulsan la transformación digital",
+    "strategic_alliances": "Alianzas Estratégicas",
+    "alliances_description": "En DataSign, establecemos alianzas con los principales proveedores tecnológicos para ofrecer soluciones especializadas. Cada alianza representa un compromiso con la excelencia tecnológica y la innovación continua.",
+    "partner": "Partner",
+    "innovation": "Innovación",
+    "technology": "Tecnología",
+    "excellence": "Excelencia",
+    "alliances_count": "+12",
+    "certified": "100%",
+    "solutions_count": "+50",
+    "support_247": "24/7",
+    "alliances_text": "Alianzas",
+    "certified_text": "Certificados",
+    "solutions_text": "Soluciones",
+    "support_text": "Soporte",
+    "benefits_title": "Beneficios de Nuestras Alianzas",
+    "benefits_subtitle": "Nuestras alianzas estratégicas nos permiten ofrecer valor diferenciado a nuestros clientes",
+    "benefit_1": "Soluciones especializadas para cada necesidad tecnológica",
+    "benefit_2": "Soporte técnico certificado y capacitación continua",
+    "benefit_3": "Integración completa con ecosistemas empresariales",
+    "benefit_4": "Arquitecturas de seguridad robustas y cumplimiento normativo",
+    "benefit_5": "Optimización de costos y maximización del ROI",
+    "benefit_6": "Innovación constante con las últimas tecnologías",
+    "cta_title": "¿Interesado en nuestras soluciones?",
+    "cta_description": "Agenda una reunión con nuestro equipo para conocer cómo nuestras alianzas pueden impulsar la transformación digital de tu organización",
+    "schedule_meeting": "Agendar reunión",
+    "redirect_note": "Serás redirigido a nuestro calendario de Outlook",
+    "alliances_list": {
+      "avepoint": {
+        "name": "AvePoint",
+        "description": "Migración, respaldo y gobierno de datos para Microsoft 365, Google Workspace y plataformas SaaS. Ciclo de vida, cumplimiento y automatización.",
+        "categories": [
+          "Microsoft 365",
+          "Google Workspace",
+          "SaaS",
+          "Gobierno de datos"
+        ]
+      },
+      "kaseya": {
+        "name": "Kaseya (Datto)",
+        "description": "Continuidad operativa, respaldo SaaS, protección contra ransomware y gestión unificada de entornos distribuidos.",
+        "categories": [
+          "Continuidad",
+          "Respaldo SaaS",
+          "Ransomware",
+          "Gestión"
+        ]
+      },
+      "varonis": {
+        "name": "Varonis",
+        "description": "Gobierno de datos, control de permisos, clasificación y seguridad frente a fugas de información y amenazas internas.",
+        "categories": [
+          "Gobierno de datos",
+          "Control de permisos",
+          "Seguridad"
+        ]
+      },
+      "gladinet": {
+        "name": "Gladinet / CentreStack",
+        "description": "Acceso remoto seguro, sincronización y colaboración sobre infraestructura híbrida sin exponer datos directamente a la nube.",
+        "categories": [
+          "Acceso remoto",
+          "Sincronización",
+          "Infraestructura híbrida"
+        ]
+      },
+      "veeam": {
+        "name": "Veeam",
+        "description": "Respaldo, recuperación y continuidad del negocio con integración a repositorios seguros e inmutables.",
+        "categories": [
+          "Respaldo",
+          "Recuperación",
+          "Continuidad"
+        ]
+      },
+      "komprise": {
+        "name": "Komprise",
+        "description": "Gestión inteligente de datos no estructurados con análisis profundo, movimientos transparentes y archivado eficiente hacia nube, cinta o almacenamiento de bajo costo.",
+        "categories": [
+          "Gestión de datos",
+          "Análisis",
+          "Archivado"
+        ]
+      },
+      "object_first": {
+        "name": "Object First",
+        "description": "Almacenamiento inmutable optimizado para Veeam con arquitectura Zero Trust y protección avanzada contra ransomware.",
+        "categories": [
+          "Almacenamiento inmutable",
+          "Veeam",
+          "Zero Trust"
+        ]
+      },
+      "spectra_logic": {
+        "name": "Spectra Logic",
+        "description": "Archivo profundo, cinta de largo plazo y soluciones híbridas para preservación de datos a costos óptimos.",
+        "categories": [
+          "Archivo profundo",
+          "Cinta",
+          "Preservación"
+        ]
+      },
+      "nimboxe": {
+        "name": "Nimboxe",
+        "description": "Nube de almacenamiento, archivo, respaldo y distribución inteligente de datos empresariales y multimedia.",
+        "categories": [
+          "Almacenamiento Inmutable",
+          "Archivo",
+          "Distribución"
+        ]
+      },
+      "ibm": {
+        "name": "IBM",
+        "description": "Power Systems para cargas críticas en AIX y Linux con alta disponibilidad y rendimiento continuo.",
+        "categories": [
+          "Power Systems",
+          "AIX",
+          "Linux",
+          "Alta disponibilidad"
+        ]
+      },
+      "lenovo": {
+        "name": "Lenovo",
+        "description": "Servidores, almacenamiento y redes empresariales para entornos híbridos y virtualizados de alto desempeño.",
+        "categories": [
+          "Servidores",
+          "Almacenamiento",
+          "Redes",
+          "Entornos híbridos"
+        ]
+      },
+      "pure_storage": {
+        "name": "Pure Storage",
+        "description": "Soluciones all-flash para cargas que requieren velocidad extrema y baja latencia.",
+        "categories": [
+          "All-flash",
+          "Alto rendimiento",
+          "Baja latencia"
+        ]
+      }
+    }
+  },
+  "privacy": {
+    "title": "Aviso de Privacidad",
+    "description": "En cumplimiento con la Ley Federal de Protección de Datos Personales en Posesión de Particulares, DataSign S.A. de C.V., con RFC DAT2110192V8 y domicilio en Av. Acueducto 6075 A Local 4, Col. Puerta de Hierro, C.P. 45116, Zapopan, Jalisco, es responsable de recabar sus datos personales, del uso que se le dé a los mismos y de su protección.",
+    "sections": {
+      "personal_data_title": "Datos Personales que recopilamos",
+      "personal_data": [
+        "En DataSign, recopilamos información personal que usted nos proporciona directamente, incluyendo, entre otros:",
+        "Nombre completo",
+        "Dirección de correo electrónico",
+        "Número de teléfono",
+        "Información de pago y facturación",
+        "Además, podemos recopilar información no personal a través de la utilización de herramientas de análisis de sitios web, como las cookies."
+      ],
+      "data_purposes_title": "Finalidades de la recopilación de Datos Personales",
+      "data_purposes": [
+        "Recopilamos sus datos personales con el fin de proporcionarle nuestros servicios y productos, que incluyen, entre otros:",
+        "Desarrollo de software personalizado para empresas y organizaciones",
+        "Servicios de consultoría de TI para asesoramiento y consultoría en el uso de tecnologías de la información",
+        "Soporte y mantenimiento de sistemas informáticos",
+        "Servicios de nube para el almacenamiento y gestión de datos",
+        "Seguridad informática para la protección de redes y sistemas y recuperación de datos en caso de incidentes de seguridad",
+        "Desarrollo de sitios web y aplicaciones móviles para empresas y organizaciones",
+        "Integración de sistemas informáticos para mejorar la eficiencia y automatización de procesos empresariales",
+        "Análisis de datos para la toma de decisiones informadas y estratégicas"
+      ],
+      "data_sharing_title": "Compartición de datos personales",
+      "data_sharing": [
+        "En DataSign, no compartimos sus datos personales con terceros, a menos que sea necesario para proporcionarle nuestros servicios y productos, o cuando la ley lo requiera."
+      ],
+      "arco_rights_title": "Derechos ARCO",
+      "arco_rights": [
+        "Usted tiene derecho a acceder, rectificar, cancelar u oponerse al tratamiento de sus datos personales, así como a revocar el consentimiento que nos ha otorgado para su uso.",
+        "Para ejercer estos derechos, por favor póngase en contacto con nosotros a través de los siguientes medios:",
+        "Por escrito, mediante una solicitud dirigida al departamento de privacidad de DataSign, enviada a la dirección de Av. Acueducto 6075 A Local 4, Col. Puerta de Hierro, C.P. 45116, Zapopan, Jalisco, México",
+        "Por correo electrónico, enviando un correo electrónico a privacidad@datasign.mx",
+        "Por teléfono, comunicándose al número 3359800372",
+        "Medios para ejercer los derechos ARCO y revocación del consentimiento:",
+        "El procedimiento para el ejercicio de los derechos ARCO y la revocación del consentimiento, así como los plazos, requisitos y medios para llevar a cabo la solicitud, se regirán por lo dispuesto en la Ley Federal de Protección de Datos Personales en Posesión de Particulares y su Reglamento."
+      ],
+      "arco_procedure_title": "Medios para ejercer los derechos ARCO y revocación del consentimiento",
+      "arco_procedure": [
+        "El procedimiento para el ejercicio de los derechos ARCO y la revocación del consentimiento, así como los plazos, requisitos y medios para llevar a cabo la solicitud, se regirán por lo dispuesto en la Ley Federal de Protección de Datos Personales en Posesión de Particulares y su Reglamento."
+      ],
+      "data_security_title": "Seguridad y protección de datos personales",
+      "data_security": [
+        "En DataSign, implementamos medidas de seguridad físicas, técnicas y administrativas para proteger sus datos personales y evitar su pérdida, mal uso, acceso no autorizado o divulgación.",
+        "Asimismo, contamos con políticas y procedimientos de seguridad y privacidad para garantizar la protección de sus datos personales."
+      ],
+      "data_transfer_title": "Transferencias de datos personales",
+      "data_transfer": [
+        "En DataSign, no realizamos transferencias de sus datos personales a terceros, salvo las excepciones previstas en la ley."
+      ],
+      "policy_changes_title": "Cambios al aviso de privacidad",
+      "policy_changes": [
+        "Nos reservamos el derecho de efectuar en cualquier momento modificaciones o actualizaciones al presente aviso de privacidad, para la atención de novedades legislativas o jurisprudenciales, políticas internas, nuevos requerimientos para la prestación u ofrecimiento de nuestros servicios o productos y prácticas del mercado.",
+        "En caso de que exista algún cambio en este aviso de privacidad, lo comunicaremos a través de nuestra página web https://www.datasign.mx, por correo electrónico o por cualquier otro medio de comunicación que consideremos pertinente.",
+        "Si usted no manifiesta su oposición para que sus datos personales sean tratados conforme a los términos y condiciones de este aviso de privacidad, se entenderá que ha otorgado su consentimiento tácito para ello.",
+        "Este aviso de privacidad puede ser modificado en cualquier momento y cualquier cambio se publicará en nuestro sitio web."
+      ]
+    },
+    "content": {
+      "personal_data_title": "Datos Personales que recopilamos",
+      "personal_data": "@:privacy.sections.personal_data",
+      "data_purposes_title": "Finalidades de la recopilación de Datos Personales",
+      "data_purposes": "@:privacy.sections.data_purposes",
+      "data_sharing_title": "Compartición de datos personales",
+      "data_sharing": "@:privacy.sections.data_sharing",
+      "arco_rights_title": "Derechos ARCO",
+      "arco_rights": "@:privacy.sections.arco_rights",
+      "arco_procedure_title": "Medios para ejercer los derechos ARCO y revocación del consentimiento",
+      "arco_procedure": "@:privacy.sections.arco_procedure",
+      "data_security_title": "Seguridad y protección de datos personales",
+      "data_security": "@:privacy.sections.data_security",
+      "data_transfer_title": "Transferencias de datos personales",
+      "data_transfer": "@:privacy.sections.data_transfer",
+      "policy_changes_title": "Cambios al aviso de privacidad",
+      "policy_changes": "@:privacy.sections.policy_changes"
+    },
+    "contact_title": "Contacto",
+    "contact": {
+      "address": "Av. Acueducto 6075 A Local 4, Col. Puerta de Hierro, C.P. 45116, Zapopan, Jalisco, México",
+      "privacy_email": "privacidad@datasign.mx",
+      "compliance_email": "compliance@datasign.mx",
+      "phone": "3359800372"
+    }
+  },
+  "code_of_conduct": {
+    "title": "Código de Conducta",
+    "introduction": {
+      "paragraph1": "Este código de conducta define los estándares mínimos de conducta empresarial y prácticas comerciales con los que DATASIGN opera con cada uno de nuestros clientes y prospectos comerciales.",
+      "paragraph2": "DATASIGN puede cambiar este código de conducta en cualquier momento mediante la publicación de un código de conducta revisado en el sitio web (https://datasign.mx)."
+    },
+    "financial_integrity": {
+      "title": "Integridad financiera y contabilidad",
+      "content": "Los registros financieros precisos y confiables son de importancia crítica. Ninguno de nuestros colaboradores debe incurrir en ninguna acción que pueda dar lugar a la transmisión de información financiera falsa o inexacta a ninguno de nuestros proveedores o a nuestros clientes. Todos los envíos que realicemos a cualquiera de nuestros proveedores o clientes (por ejemplo, pedidos, informes de ventas, solicitudes de ofertas especiales, reembolsos y solicitudes de reembolso) serán completos y precisos."
+    },
+    "government_clients": {
+      "title": "Trabajar con clientes gubernamentales",
+      "content": "Cada uno de nuestros colaboradores debe tener en cuenta y cumplir todas las leyes, reglas, reglamentos, incluidos los reglamentos de adquisición, y las cláusulas de contrato que rigen la adquisición de bienes y servicios por parte de entidades gubernamentales con las que directa o indirectamente comercializamos productos y/o servicios proporcionados por DATASIGN o cualquiera de nuestros socios comerciales (incluidos proveedores o revendedores), incluyendo entidades federales, estatales, locales y otras entidades estatales, así como entidades que sean propiedad del gobierno o estén controladas o sujetas a las normas de contratación pública (\"clientes gubernamentales\"). Todos nuestros empleados deberán tener en cuenta que las actividades que pueden ser adecuadas cuando se trata de clientes no gubernamentales pueden ser inadecuadas e incluso ilegales cuando se trata de clientes gubernamentales."
+    },
+    "no_illicit_payments": {
+      "title": "Sin pagos ilícitos",
+      "content": [
+        "En todo momento, exigimos a nuestros colaboradores cumplir con todas las leyes aplicables contra el soborno locales y extranjeras. Las prácticas que son aceptables en el entorno privado pueden ser totalmente inaceptables con funcionarios del gobierno, e incluso pueden violar ciertas leyes y regulaciones aplicables.",
+        "Cuando cualquiera de nuestros colaboradores trabaje con funcionarios del gobierno o con aquellos que actúen en nombre del gobierno, debe ser consciente de estas restricciones. No debe, directa o indirectamente, hacer u ofrecer sobornos ni otros pagos de dinero u otras cosas de valor, incluyendo servicios de negocios, a ninguna persona, incluyendo funcionarios, empleados o representantes de cualquier gobierno, partidos políticos, candidatos u organización pública o internacional, o a cualquier otro tercero, con el propósito de obtener o retener ilegalmente negocios relacionados de cualquier forma con productos o servicios proporcionados o revendidos por DATASIGN.",
+        "Esto incluye dar dinero o servicios a cualquier tercero con el que haya razones para creer que se transmitirá a cualquier persona que participe en el proceso de toma de decisiones de negocios con el propósito de influir en la decisión. Incluso cuando sean permitidos por las leyes y reglamentos aplicables, cualquier gasto relacionado con los viajes y servicios prestados a las entidades estatales debe ser razonable, vinculado a la demostración del producto y no proporcionado con el propósito de obtener o retener ilícitamente negocios relacionados con productos o servicios proporcionados por DATASIGN.",
+        "Todos nuestros colaboradores deben asegurarse de que todos los servicios de negocios que proporcionemos a clientes privados, comerciales o de propiedad del gobierno y de otro tipo cumplan con todas las leyes y regulaciones aplicables, estén en el curso normal y adecuado de los negocios y no puedan razonablemente ser interpretados como sobornos u otros incentivos inadecuados.",
+        "Al tratar con otros, incluidos otros asociados de negocios de DATASIGN, nuestros colaboradores deben ejercer la debida diligencia para asegurarse de que conocen cualquier señal de aviso que pueda indicar problemas potenciales y que se atengan a los términos de este código de conducta."
+      ]
+    },
+    "competition_laws": {
+      "title": "Leyes antimonopolio y de competencia",
+      "content": [
+        "DataSign debe cumplir plenamente con todas las leyes y regulaciones antimonopolio y de competencia aplicables.",
+        "No es permisible que ningún colaborador o socio comercial de DATASIGN realicen ni intenten realizar cualquiera de las siguientes opciones: 1) fijar o controlar los precios de un proceso de compra; 2) boicotear a los proveedores o clientes; 3) dividir o asignar mercados o clientes; o 4) coordinar las ofertas con la competencia."
+      ]
+    },
+    "fair_competition": {
+      "title": "Competir equitativamente",
+      "content": "DATASIGN espera que todos sus colaboradores que participan en la venta de productos y servicios proporcionados por DATASIGN se aseguren de que todas las declaraciones y comunicaciones a los clientes sean exactas, completas y veraces. De forma similar, no debe realizar ni intentar realizar ningún compromiso no autorizado en nombre de DATASIGN o de sus clientes, ni implicar inapropiadamente o implicar a DATASIGN en disputas con clientes o con otros. De forma similar, no debe difamar o menospreciar a DATASIGN, a otros asociados de negocios de DATASIGN, competidores o clientes."
+    },
+    "securities_laws": {
+      "title": "Conformidad con las leyes de valores y de información privilegiada",
+      "content": [
+        "Todos nuestros colaboradores deben cumplir plenamente con las leyes aplicables de comercio interno y de valores que rigen las transacciones en valores de DATASIGN. Los valores incluyen acciones comunes, bonos, opciones, futuros y otros instrumentos financieros.",
+        "Si alguno de nuestros colaboradores posee o tiene acceso a información no pública y material obtenida a través de su trabajo con DATASIGN o con nuestros clientes, debe utilizar dicha información únicamente para el propósito para el que se le ha proporcionado. No puede usarla para comerciar en valores. Estas restricciones también se aplican a miembros de la familia y amigos."
+      ]
+    },
+    "intellectual_property": {
+      "title": "Propiedad intelectual",
+      "content": "Cada uno de nuestros colaboradores es responsable de proteger los derechos de propiedad intelectual de DATASIGN y de nuestros clientes. Un elemento importante de esta protección es mantener la confidencialidad de la información confidencial de DATASIGN y de nuestros clientes y de otra información de propiedad. No debe reproducir software, documentación u otro material protegido por derechos de autor a menos que esté debidamente autorizado para hacerlo. Debe observar los requisitos de privacidad de datos aplicables. Cuando comercializa directamente con un usuario final, debe asegurarse de que los términos de licencia y de producto adecuados se proporcionan al usuario final en un formato suficiente para crear un acuerdo ejecutable bajo la ley aplicable antes de que la venta al usuario final sea finalizada."
+    },
+    "respect_dignity": {
+      "title": "Respeto y dignidad",
+      "content": "DataSign debe proporcionar a sus empleados un entorno de trabajo libre de coerción, discriminación y acoso."
+    },
+    "social_media": {
+      "title": "Redes sociales",
+      "content": "Cualquiera de nuestros colaboradores al utilizar los medios sociales (por ejemplo, cualquier forma de publicación y discusión en línea, incluidos blogs, wikis, intercambio de archivos, video y audio generados por un usuario y redes sociales), debe cumplir con este código de conducta y no debe revelar la información confidencial de DATASIGN o de nuestros socios comerciales."
+    },
+    "marketing": {
+      "title": "Comercialización con otros usuarios de marketing",
+      "content": "DataSign exige a nuestros socios comerciales que cumplan con este código de conducta y que supervisen regularmente el sitio web de DATASIGN que se proporciona más arriba para conocer los cambios en este código de conducta."
+    },
+    "unauthorized_sources": {
+      "title": "Adquisición de productos de fuentes no autorizadas",
+      "content": "Queda estrictamente prohibida la adquisición de productos de nuestros socios comerciales procedentes de fuentes no autorizadas. Ponen en riesgo nuestro compromiso de servir a nuestros clientes con los niveles más altos de calidad y valor empresarial. También representa un riesgo significativo para nuestros clientes potenciales porque no existe la seguridad de que estos productos están libres de defectos o alteraciones (o ambos) o si el producto es falsificado, lo que puede afectar a las reclamaciones de garantía posteriores y la satisfacción del cliente."
+    },
+    "training": {
+      "title": "Capacitación de integridad, certificación y revalidación",
+      "content": "Todos nuestros colaboradores deben completar la capacitación de integridad de DATASIGN, certificando su conformidad con this código de conducta."
+    },
+    "compliance": {
+      "title": "Conformidad",
+      "content": "Cualquier violación de este código de conducta por parte de nuestros colaboradores o socios comerciales constituirá la base para la terminación inmediata de relación laboral o comercial con DATASIGN, incluidos todos los contratos relacionados."
+    },
+    "reporting_violations": {
+      "title": "Violaciones de informes",
+      "content": "Si alguno de nuestros colaboradores o socios comerciales se da cuenta de cualquier situación ilegal o poco ética que involucra o se relaciona con la venta de productos o servicios que DATASIGN proporciona, debe notificar inmediatamente a DATASIGN escribiendo a compliance@datasign.mx y comunicar cualquier información que tenga con respecto al incidente o situación."
+    },
+    "privacy_nav": "Privacidad",
+    "code_of_conduct_nav": "Código de Conducta"
+  },
+  "solutions_section": {
+    "infra": {
+      "title": "Infraestructura de TI para Misión Crítica",
+      "subtitle": "Diseñamos y operamos infraestructura de red, cómputo y almacenamiento para entornos de misión crítica",
+      "description": "Implementamos redes, plataformas de cómputo x86 e IBM Power Systems (AIX y Linux), así como sistemas de almacenamiento y protección de datos diseñados para garantizar continuidad, alto rendimiento y seguridad en entornos empresariales continuidad, alto rendimiento y seguridad en entornos empresariales.",
+      "points": [
+        "Diseño e implementación de redes de datos",
+        "Plataformas de cómputo x86",
+        "Sistemas de almacenamiento y respaldo"
+      ]
+    },
+    "services": {
+      "title": "Servicios Especializados",
+      "subtitle": "Expertos en tecnologías que habilitan servicios seguros y rápidos",
+      "description": "Equipo de especialistas en diversas tecnologías que habilitan servicios seguros y rápidos.",
+      "points": [
+        "Infraestructura multiplataforma",
+        "Re-ingeniería de ambientes virtuales",
+        "Soporte y Help Desk"
+      ]
+    },
+    "saas": {
+      "title": "Orquestación SaaS",
+      "subtitle": "Control, protección y gestión completa de tus datos en Microsoft 365, Google y otras plataformas SaaS.",
+      "description": "Implementamos soluciones para migrar, proteger y gobernar datos en la nube, integrando tecnologías líderes que aseguran continuidad, cumplimiento y visibilidad total",
+      "points": [
+        "Migración tenant-to-tenant y entre ecosistemas (Microsoft 365 ↔ Google)",
+        "Respaldo y recuperación para aplicaciones SaaS",
+        "Clasificación y ciclo de vida de la información",
+        "Gobierno y seguridad de datos sensibles",
+        "Continuidad operativa y protección contra pérdida o corrupción",
+        "Tecnología integrada: AvePoint · Varonis · Datto (Kaseya) · Nimboxe"
+      ]
+    },
+    "archive": {
+      "title": "Digital Archive",
+      "subtitle": "Archivado empresarial seguro, ordenado y eficiente.",
+      "description": "Digital Archive organiza y mueve grandes volúmenes de datos hacia el almacenamiento adecuado —disco, cinta o nube— sin interrumpir la operación. Te permite analizar qué datos tienes, migrarlos de forma inteligente y mantenerlos protegidos y listos para futuras necesidades, incluida la analítica y la IA.",
+      "points": [
+        "Visibilidad clara de tus datos.",
+        "Archivado automático sin afectar sistemas.",
+        "Migración rápida y optimizada.",
+        "Datos preparados para analítica e IA."
+      ]
+    },
+    "cyber": {
+      "title": "CyberResilience",
+      "subtitle": "Protección integral para mantener tus datos seguros y tu operación en marcha",
+      "description": "Nuestras soluciones aseguran que la información crítica permanezca disponible y recuperable aun frente a ataques o incidentes. Combinamos almacenamiento inmutable, respaldos aislados y recuperación rápida para garantizar continuidad.",
+      "points": [
+        "Protección avanzada de datos: cifrado, aislamiento e inmutabilidad",
+        "Control de acceso seguro y auditoría",
+        "Respaldo fuera de sitio, offline y en la nube",
+        "Recuperación rápida y confiable para restablecer operación",
+        "Ecosistema de tecnologia: Veeam, ObjectFirst, Spectra Logic, Nimboxe"
+      ]
+    }
+  },
+  "solutions_page": {
+    "header": {
+      "title": "Soluciones <span class=\"bg-gradient-to-r from-violet-600 to-fuchsia-500 bg-clip-text text-transparent\">Tecnológicas</span>",
+      "subtitle": "Descubre nuestras soluciones innovadoras"
+    }
+  }
+}
