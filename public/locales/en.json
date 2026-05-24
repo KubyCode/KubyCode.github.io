@@ -1,0 +1,634 @@
+{
+  "home": "Home",
+  "about_us": "About Us",
+  "solutions": "Solutions",
+  "privacy_navbar": "Privacy",
+  "code_of_conduct_navbar": "Code of Conduct",
+  "alliances": "Alliances",
+  "support": "Support",
+  "blog": "Blog",
+  "more": "More",
+  "demo": "Try Demo",
+  "sign_in": "Sign In",
+  "type_message": "Type your message...",
+  "welcome": {
+    "badge": "Data Intelligence Platform",
+    "title": "Data Protection and Resilience",
+    "subtitle": "In the new digital age, data is the raw material that drives innovation, efficiency, and business profitability.",
+    "quote_part1": "Today, organizations generate more data than they can manage.",
+    "quote_part2": "At DataSign we manage its life cycle with precision, ensuring operational continuity and strengthening decision-making.",
+    "cta_try_now": "Try now"
+  },
+  "whatsapp_online": "Online",
+  "whatsapp_default_message": "Hello, we are the DataSign team. Do you need more information about our services?",
+  "video": {
+    "title": "DataSign",
+    "subtitle": "DIGITAL TECHNOLOGY IN MEXICO",
+    "stat_internet_penetration": "Internet penetration",
+    "stat_internet_users": "Internet users",
+    "stat_social_users": "Social media users",
+    "source_label": "Source: Digital 2026 Mexico",
+    "unsupported": "Your browser does not support the video tag."
+  },
+    "about": {
+    "title": "About Us",
+    "description": "At DataSign we help organizations better manage, protect, and leverage their data. We integrate infrastructure, cyber resilience, and information governance solutions so businesses can operate with security, efficiency, and continuity. Our approach is practical, transparent, and results-oriented.",
+    "mission": "Mission",
+    "missionContent": "Help organizations better manage, protect, and leverage their data through reliable, efficient, and results-oriented technological solutions.",
+    "vision": "Vision",
+    "visionContent": "Be a reference in data management and protection, driving the growth and competitiveness of our clients through clear, useful, and impactful technology.",
+    "values": "Our Values",
+    "valuesContent": "Innovation, transparency, commitment, and collaboration with our clients.",
+    "valuesList": {
+      "innovation": {
+        "title": "Innovation",
+        "content": "We constantly seek new ways to improve, adopting technologies and practices that provide real value to our clients."
+      },
+      "quality": {
+        "title": "Quality",
+        "content": "We care about every detail of what we do to offer stable, secure, and high-performance solutions."
+      },
+      "service": {
+        "title": "Service",
+        "content": "We support our clients with close, professional, and solution-oriented attention."
+      },
+      "honesty": {
+        "title": "Honesty",
+        "content": "We act with transparency, always speaking the truth and prioritizing correct and responsible decisions."
+      },
+      "growth": {
+        "title": "Sustainable Growth",
+        "content": "We build lasting relationships and solutions, thinking long-term for clients, employees, and partners."
+      }
+    },
+    "whyChooseUs": "Why choose DataSing?",
+    "whyChooseUsContent": "We combine technical expertise with business understanding to offer solutions that truly drive your business forward.",
+    "tags": {
+      "technology": "Technology",
+      "innovation": "Innovation",
+      "solutions": "Solutions",
+      "dataAnalytics": "Data Analytics"
+    },
+      "features": {
+    "advancedTech": "Advanced Technology",
+    "security": "Security",
+    "innovation": "Innovation"
+  }
+  },
+    "features": {
+      "advancedTech": "💻 Advanced Technology",
+      "security": "🔒 Security",
+      "innovation": "🚀 Innovation"
+    },
+  "heroSection": {
+    "badge": "AI AUTOMATION PLATFORM",
+    "title": "THINKLAB",
+    "subtitle": "by DataSign",
+    "lead1": "Smart automation with ",
+    "lead2": "AI agents",
+    "lead3": " integrated into your business processes.",
+    "desc1a": "ThinkLab is DataSign's platform designed to incorporate ",
+    "desc1b": "artificial intelligence agents",
+    "desc1c": " into your organization's operational flows.",
+    "desc2a": "We connect your systems, data, and processes",
+    "desc2b": " with intelligent assistants that respond, execute tasks, and automate repetitive activities.",
+    "desc3a": "All with a universal and simple front: ",
+    "cta": "Start Automation"
+  },
+  "thinklab": {
+    "capabilities_section": {
+      "badge": "BOOST YOUR BUSINESS",
+      "title": "What ThinkLab Enables",
+      "description": "Discover how our platform transforms complex processes into simple and efficient experiences"
+    },
+    "capabilities": [
+      {
+        "title": "AI Agent Integration",
+        "description": "We incorporate artificial intelligence into your operational, administrative, and customer service processes to transform your business.",
+        "stats": [
+          "Multi-platform",
+          "Real-time",
+          "Scalable"
+        ]
+      },
+      {
+        "title": "Intelligent Automation",
+        "description": "We automate tasks, queries, reports, and internal flows with exceptional precision and efficiency.",
+        "stats": [
+          "100% Automatic",
+          "Error-free",
+          "24/7 Active"
+        ]
+      },
+      {
+        "title": "Cognitive Processing",
+        "description": "We capture, classify, and process information with advanced artificial intelligence algorithms.",
+        "stats": [
+          "Deep analysis",
+          "Continuous learning",
+          "Accurate prediction"
+        ]
+      },
+      {
+        "title": "Conversational Experiences",
+        "description": "We offer natural interactions from WhatsApp, web, or internal apps with conversational AI.",
+        "stats": [
+          "Multilanguage",
+          "Contextual",
+          "Personalized"
+        ]
+      },
+      {
+        "title": "Error Reduction",
+        "description": "We minimize operational errors and reduce workload in critical areas of your organization.",
+        "stats": [
+          "99.9% Accuracy",
+          "Zero fatigue",
+          "Auditable"
+        ]
+      },
+      {
+        "title": "Continuous Optimization",
+        "description": "We accelerate processes and optimize resources to maximize efficiency and productivity.",
+        "stats": [
+          "10x speed",
+          "Infinite scale",
+          "Reduced costs"
+        ]
+      }
+    ],
+    "whatsapp_section": {
+      "title": "Integration",
+      "description": "Access all the power of ThinkLab directly from WhatsApp. Interact with AI agents, receive automated reports, and manage processes by simply sending a message.",
+      "features": [
+        "Instant responses",
+        "Smart multimedia",
+        "Conversation context",
+        "API integration"
+      ],
+      "cta": "Request Demo via WhatsApp"
+    }
+  },
+  "carousel": {
+    "title": "Our",
+    "partners": "Partners",
+    "subtitle": "We collaborate with the best tools and technologies to offer innovative and quality solutions.",
+    "brands_meet": "Where the best brands meet.",
+    "instruction": "Hover over any logo to see details"
+  },
+  "tech_infrastructure": "Information Technology Infrastructure",
+  "specialized_services": "Specialized Services",
+  "datasign_solution": "A solution for each of your problems",
+  "services": {
+    "nimboxe_video": "Discover how we transform enterprise data management",
+    "nimboxe_benefits": {
+      "availability": "Availability",
+      "savings": "Cost Savings",
+      "support": "Support"
+    },
+    "hero": {
+      "tech_badge": "CUTTING-EDGE TECHNOLOGY",
+      "main_title": "Infrastructure",
+      "subtitle": "& Smart Cloud",
+      "description": "For <strong>Business Continuity</strong>",
+      "content": "In partnership with <strong>EdgeNet</strong> and <strong>Wasabi</strong>, <strong>Nimboxe</strong> redefines enterprise technological resilience, integrating storage, backup, infrastructure, and disaster recovery services into a national network of state-of-the-art data centers.",
+      "mission": "Our mission: <strong>guarantee continuous availability</strong>, low latency, and total protection of the critical data that supports your business operations.",
+      "cta_primary": "Get Started Now",
+      "cta_secondary": "Request Demo"
+    },
+    "services_section": {
+      "title": "Our Services",
+      "subtitle": "Comprehensive solutions designed for the <strong>digital era</strong>",
+      "infrastructure": {
+        "title": "Infrastructure",
+        "description": "State-of-the-art data centers with redundancy and high availability",
+        "features": {
+          "0": "Tier III and IV data centers",
+          "1": "Power and cooling redundancy",
+          "2": "Multi-carrier connectivity",
+          "3": "99.99% availability SLA"
+        }
+      },
+      "cloud": {
+        "title": "Smart Cloud",
+        "description": "Hybrid and multi-cloud solutions for maximum flexibility",
+        "features": {
+          "0": "Multi-region storage",
+          "1": "Container platform",
+          "2": "Automatic orchestration",
+          "3": "On-demand scalability"
+        }
+      },
+      "backup": {
+        "title": "Backup & DR",
+        "description": "Continuous data protection and disaster recovery",
+        "features": {
+          "0": "Automatic 3-2-1 backup",
+          "1": "Instant recovery",
+          "2": "Real-time replication",
+          "3": "Optimized RTO/RPO"
+        }
+      },
+      "security": {
+        "title": "Security",
+        "description": "Comprehensive protection with multiple security layers",
+        "features": {
+          "0": "End-to-end encryption",
+          "1": "SOC-2/ISO27001 compliance",
+          "2": "DDoS protection",
+          "3": "24/7 monitoring"
+        }
+      },
+      "explore_service": "Explore Service"
+    },
+    "partners_section": {
+      "title": "Strategic Alliances",
+      "subtitle": "We collaborate with the <strong>best</strong> to offer you world-class solutions",
+      "edgenet": {
+        "description": "Leader in low-latency connectivity and edge computing",
+        "benefits": {
+          "0": "National fiber optic network",
+          "1": "Strategic edge locations",
+          "2": "Guaranteed low latency"
+        }
+      },
+      "wasabi": {
+        "description": "High-performance, low-cost cloud storage",
+        "benefits": {
+          "0": "S3 compatibility",
+          "1": "Predictable pricing",
+          "2": "High transfer speeds"
+        }
+      }
+    },
+    "benefits_section": {
+      "title": "Key Benefits",
+      "subtitle": "Designed for the <strong>future</strong> of your business",
+      "availability": {
+        "title": "Continuous Availability",
+        "description": "We guarantee uninterrupted operation of your critical operations with SLAs up to 99.99%"
+      },
+      "latency": {
+        "title": "Low Latency",
+        "description": "National network of edge data centers for performance-sensitive applications"
+      },
+      "protection": {
+        "title": "Total Protection",
+        "description": "Multi-layer security and proven disaster recovery strategies"
+      }
+    },
+    "cta_section": {
+      "title": "Ready for the <strong>Future</strong>?",
+      "description": "Discover how our solutions can ensure your business continuity while reducing costs and improving security.",
+      "primary": "Contact Sales",
+      "secondary": "Schedule a Demo"
+    }
+  },
+  "alliances_section": {
+    "hero_subtitle": "We collaborate with technology leaders to offer comprehensive and specialized solutions that drive digital transformation",
+    "strategic_alliances": "Strategic Alliances",
+    "alliances_description": "At DataSign, we establish alliances with leading technology providers to offer specialized solutions. Each alliance represents a commitment to technological excellence and continuous innovation.",
+    "partner": "Partner",
+    "innovation": "Innovation",
+    "technology": "Technology",
+    "excellence": "Excellence",
+    "alliances_count": "+12",
+    "certified": "100%",
+    "solutions_count": "+50",
+    "support_247": "24/7",
+    "alliances_text": "Alliances",
+    "certified_text": "Certified",
+    "solutions_text": "Solutions",
+    "support_text": "Support",
+    "benefits_title": "Benefits of Our Alliances",
+    "benefits_subtitle": "Our strategic alliances allow us to offer differentiated value to our customers",
+    "benefit_1": "Specialized solutions for each technological need",
+    "benefit_2": "Certified technical support and continuous training",
+    "benefit_3": "Complete integration with business ecosystems",
+    "benefit_4": "Robust security architectures and regulatory compliance",
+    "benefit_5": "Cost optimization and ROI maximization",
+    "benefit_6": "Constant innovation with the latest technologies",
+    "cta_title": "Interested in our solutions?",
+    "cta_description": "Schedule a meeting with our team to learn how our alliances can drive digital transformation in your organization",
+    "schedule_meeting": "Schedule Meeting",
+    "redirect_note": "You will be redirected to our Outlook calendar",
+    "alliances_list": {
+      "avepoint": {
+        "name": "AvePoint",
+        "description": "Migration, backup and data governance for Microsoft 365, Google Workspace and SaaS platforms. Lifecycle, compliance and automation.",
+        "categories": [
+          "Microsoft 365",
+          "Google Workspace",
+          "SaaS",
+          "Data governance"
+        ]
+      },
+      "kaseya": {
+        "name": "Kaseya (Datto)",
+        "description": "Operational continuity, SaaS backup, ransomware protection and unified management of distributed environments.",
+        "categories": [
+          "Continuity",
+          "SaaS Backup",
+          "Ransomware",
+          "Management"
+        ]
+      },
+      "varonis": {
+        "name": "Varonis",
+        "description": "Data governance, permission control, classification and security against information leaks and internal threats.",
+        "categories": [
+          "Data governance",
+          "Permission control",
+          "Security"
+        ]
+      },
+      "gladinet": {
+        "name": "Gladinet / CentreStack",
+        "description": "Secure remote access, synchronization and collaboration on hybrid infrastructure without exposing data directly to the cloud.",
+        "categories": [
+          "Remote access",
+          "Synchronization",
+          "Hybrid infrastructure"
+        ]
+      },
+      "veeam": {
+        "name": "Veeam",
+        "description": "Backup, recovery and business continuity with integration to secure and immutable repositories.",
+        "categories": [
+          "Backup",
+          "Recovery",
+          "Continuity"
+        ]
+      },
+      "komprise": {
+        "name": "Komprise",
+        "description": "Intelligent management of unstructured data with deep analysis, transparent movements and efficient archiving to cloud, tape or low-cost storage.",
+        "categories": [
+          "Data management",
+          "Analysis",
+          "Archiving"
+        ]
+      },
+      "object_first": {
+        "name": "Object First",
+        "description": "Immutable storage optimized for Veeam with Zero Trust architecture and advanced ransomware protection.",
+        "categories": [
+          "Immutable storage",
+          "Veeam",
+          "Zero Trust"
+        ]
+      },
+      "spectra_logic": {
+        "name": "Spectra Logic",
+        "description": "Deep archive, long-term tape and hybrid solutions for data preservation at optimal costs.",
+        "categories": [
+          "Deep archive",
+          "Tape",
+          "Preservation"
+        ]
+      },
+      "nimboxe": {
+        "name": "Nimboxe",
+        "description": "Cloud, archive, backup and intelligent distribution platform for business and multimedia data.",
+        "categories": [
+          "Storage",
+          "Archive",
+          "Distribution"
+        ]
+      },
+      "ibm": {
+        "name": "IBM",
+        "description": "Power Systems for critical workloads in AIX and Linux with high availability and continuous performance.",
+        "categories": [
+          "Power Systems",
+          "AIX",
+          "Linux",
+          "High availability"
+        ]
+      },
+      "lenovo": {
+        "name": "Lenovo",
+        "description": "Servers, storage and enterprise networks for high-performance hybrid and virtualized environments.",
+        "categories": [
+          "Servers",
+          "Storage",
+          "Networks",
+          "Hybrid environments"
+        ]
+      },
+      "pure_storage": {
+        "name": "Pure Storage",
+        "description": "All-flash solutions for workloads requiring extreme speed and low latency.",
+        "categories": [
+          "All-flash",
+          "High performance",
+          "Low latency"
+        ]
+      }
+    }
+  },
+  "privacy": {
+    "title": "Privacy Notice",
+    "description": "In compliance with the Federal Law on the Protection of Personal Data Held by Private Parties, DataSign S.A. de C.V., with RFC DAT2110192V8 and address at Av. Acueducto 6075 A Local 4, Col. Puerta de Hierro, C.P. 45116, Zapopan, Jalisco, is responsible for collecting your personal data, its use, and protection.",
+    "sections": {
+      "personal_data": "1. Personal Data We Collect",
+      "data_purposes": "2. Purposes for Collecting Personal Data",
+      "data_sharing": "3. Sharing of Personal Data",
+      "arco_rights": "4. ARCO Rights",
+      "data_security": "5. Security and Protection of Personal Data",
+      "policy_changes": "6. Changes to the Privacy Notice"
+    },
+    "content": {
+      "personal_data": [
+        "At DataSign, we collect personal information that you provide directly, including but not limited to:",
+        "Full name",
+        "Email address",
+        "Phone number",
+        "Payment and billing information",
+        "We may also collect non-personal information through website analytics tools, such as cookies."
+      ],
+      "data_purposes": [
+        "We collect your personal data to provide our services and products, including but not limited to:",
+        "Custom software development for companies and organizations.",
+        "IT consulting services for advice and support in the use of information technologies.",
+        "Support and maintenance of computer systems.",
+        "Cloud services for data storage and management.",
+        "Cybersecurity for network and system protection and data recovery in case of security incidents.",
+        "Website and mobile application development for companies and organizations.",
+        "System integration to improve efficiency and business process automation.",
+        "Data analysis for informed and strategic decision-making."
+      ],
+      "data_sharing": [
+        "At DataSign, we do not share your personal data with third parties, unless necessary to provide our services and products or when required by law."
+      ],
+      "arco_rights": [
+        "You have the right to access, rectify, cancel, or oppose the processing of your personal data, as well as to revoke the consent you have granted for its use.",
+        "To exercise these rights, please contact us through the following means:",
+        "In writing, by sending a request addressed to the DataSign Privacy Department, at Av. Acueducto 6075 A Local 4, Col. Puerta de Hierro, C.P. 45116, Zapopan, Jalisco, Mexico.",
+        "By email, by sending a message to privacidad@datasign.mx.",
+        "By phone, calling 3359800372.",
+        "The procedure for exercising ARCO rights and revoking consent, as well as the time frames, requirements, and means to make the request, will be governed by the Federal Law on the Protection of Personal Data Held by Private Parties and its Regulations.",
+        "Means to exercise ARCO rights and revoke consent:",
+        "The procedure for exercising ARCO rights and revoking consent, as well as the deadlines, requirements, and means for submitting the request, will be governed by the provisions of the Federal Law on the Protection of Personal Data Held by Private Parties and its Regulations."
+      ],
+      "data_security": [
+        "At DataSign, we implement physical, technical, and administrative security measures to protect your personal data and prevent its loss, misuse, unauthorized access, or disclosure.",
+        "We also have security and privacy policies and procedures to ensure the protection of your personal data."
+      ],
+      "policy_changes": [
+        "We reserve the right to modify or update this privacy notice at any time to comply with legislative or jurisprudential developments, internal policies, new requirements for the provision or offering of our services or products, and market practices.",
+        "In case of any changes to this privacy notice, we will communicate them through our website https://www.datasign.mx, by email, or any other means we deem appropriate.",
+        "If you do not express your opposition to the processing of your personal data according to the terms and conditions of this notice, it will be understood that you have given your tacit consent.",
+        "This privacy notice may be modified at any time, and any change will be published on our website."
+      ]
+    },
+    "contact_title": "Contact",
+    "contact": {
+      "address": "Av. Acueducto 6075 A Local 4, Col. Puerta de Hierro, C.P. 45116, Zapopan, Jalisco, Mexico",
+      "privacy_email": "privacidad@datasign.mx",
+      "compliance_email": "compliance@datasign.mx",
+      "phone": "3359800372"
+    }
+  },
+  "code_of_conduct": {
+    "title": "Code of Conduct",
+    "introduction": {
+      "paragraph1": "This Code of Conduct defines the minimum standards of business behavior and commercial practices under which DATASIGN operates with each of our clients and business prospects.",
+      "paragraph2": "DATASIGN may change this Code of Conduct at any time by publishing a revised version on its website (https://datasign.mx)."
+    },
+    "financial_integrity": {
+      "title": "Financial Integrity and Accounting",
+      "content": "Accurate and reliable financial records are critically important. None of our employees may engage in any action that could result in the transmission of false or inaccurate financial information to any of our suppliers or clients. All submissions we make to suppliers or clients (such as orders, sales reports, special offer requests, rebates, and reimbursement claims) must be complete and accurate."
+    },
+    "government_clients": {
+      "title": "Working with Government Clients",
+      "content": "Each of our employees must understand and comply with all laws, rules, and regulations, including procurement regulations and contract clauses governing the acquisition of goods and services by government entities with which DATASIGN or any of our business partners (including suppliers or resellers) directly or indirectly conduct business. This includes federal, state, and local entities, as well as government-owned or controlled organizations or those subject to public procurement laws (\"government clients\"). Employees should be aware that activities appropriate with non-government clients may be inappropriate or even illegal when dealing with government clients."
+    },
+    "no_illicit_payments": {
+      "title": "No Illicit Payments",
+      "content": [
+        "We require our employees to comply at all times with all applicable local and foreign anti-bribery and anti-corruption laws. Practices acceptable in the private sector may be completely unacceptable when dealing with government officials and may even violate applicable laws and regulations.",
+        "When working with government officials or anyone acting on behalf of a government, employees must be aware of these restrictions. They must not, directly or indirectly, make or offer bribes or other payments of money or items of value—including business services—to any person, including government officials, employees, representatives, political parties, candidates, public or international organizations, or any third party, for the purpose of unlawfully obtaining or retaining business related to products or services provided or resold by DATASIGN.",
+        "This includes giving money or services to any third party when there is reason to believe it will be passed to someone involved in a business decision-making process to improperly influence that decision. Even when permitted by applicable laws and regulations, any expenses related to travel or services provided to state entities must be reasonable, tied to legitimate product demonstrations, and not intended to unlawfully obtain or retain business related to DATASIGN products or services.",
+        "All employees must ensure that any business services provided to private, commercial, or government-owned clients comply with applicable laws and regulations, occur in the normal course of business, and cannot reasonably be interpreted as bribes or improper incentives.",
+        "When dealing with others, including DATASIGN business partners, employees must exercise due diligence to identify any warning signs of potential issues and strictly adhere to this Code of Conduct."
+      ]
+    },
+    "competition_laws": {
+      "title": "Antitrust and Competition Laws",
+      "content": [
+        "DATASIGN must fully comply with all applicable antitrust and competition laws and regulations.",
+        "No DATASIGN employee or business partner may engage in or attempt any of the following: (1) fixing or controlling prices in a purchasing process; (2) boycotting suppliers or customers; (3) dividing or allocating markets or clients; or (4) coordinating bids with competitors."
+      ]
+    },
+    "fair_competition": {
+      "title": "Fair Competition",
+      "content": "DATASIGN expects all employees involved in the sale of DATASIGN products and services to ensure that all statements and communications to clients are accurate, complete, and truthful. Likewise, employees must not make unauthorized commitments on behalf of DATASIGN or its clients, or improperly involve DATASIGN in client or third-party disputes. Employees must also avoid defaming or disparaging DATASIGN, its business partners, competitors, or clients."
+    },
+    "securities_laws": {
+      "title": "Compliance with Securities and Insider Trading Laws",
+      "content": [
+        "All DATASIGN employees must fully comply with applicable securities and insider trading laws governing transactions in DATASIGN securities. These securities include common stock, bonds, options, futures, and other financial instruments.",
+        "If any employee possesses or has access to material non-public information obtained through their work with DATASIGN or our clients, they must use that information only for its intended purpose and must not use it to trade securities. These restrictions also apply to family members and friends."
+      ]
+    },
+    "intellectual_property": {
+      "title": "Intellectual Property",
+      "content": "Each employee is responsible for protecting the intellectual property rights of DATASIGN and our clients. A key part of this protection is maintaining the confidentiality of proprietary and confidential information. Employees must not reproduce software, documentation, or other copyrighted materials unless properly authorized to do so. Data privacy requirements must always be observed. When selling directly to an end user, employees must ensure that proper licensing and product terms are provided in a legally binding form before the sale is finalized."
+    },
+    "respect_dignity": {
+      "title": "Respect and Dignity",
+      "content": "DATASIGN is committed to providing its employees with a work environment free from coercion, discrimination, and harassment."
+    },
+    "social_media": {
+      "title": "Social Media",
+      "content": "Any DATASIGN employee using social media (such as any form of online posting or discussion, including blogs, wikis, file sharing, and user-generated video or audio) must comply with this Code of Conduct and must not disclose confidential information belonging to DATASIGN or its business partners."
+    },
+    "marketing": {
+      "title": "Working with Marketing Partners",
+      "content": "DATASIGN requires its business partners to comply with this Code of Conduct and to regularly review DATASIGN's website for any updates or changes to this policy."
+    },
+    "unauthorized_sources": {
+      "title": "Purchasing from Unauthorized Sources",
+      "content": "Purchasing products from unauthorized sources is strictly prohibited. Such actions jeopardize our commitment to providing clients with the highest levels of quality and business value. It also poses significant risks to potential customers, as there is no guarantee that these products are free from defects or alterations—or that they are genuine—which can affect warranty claims and customer satisfaction."
+    },
+    "training": {
+      "title": "Integrity Training, Certification, and Renewal",
+      "content": "All DATASIGN employees must complete DATASIGN's integrity training and certify their compliance with this Code of Conduct."
+    },
+    "compliance": {
+      "title": "Compliance",
+      "content": "Any violation of this Code of Conduct by employees or business partners constitutes grounds for the immediate termination of employment or business relationships with DATASIGN, including all related contracts."
+    },
+    "reporting_violations": {
+      "title": "Reporting Violations",
+      "content": "If any DATASIGN employee or business partner becomes aware of any illegal or unethical situation involving the sale of DATASIGN products or services, they must immediately report it by emailing compliance@datasign.mx and providing any information related to the incident or situation."
+    },
+    "privacy_nav": "Privacy",
+    "code_of_conduct_nav": "Code of Conduct"
+  },
+  "solutions_section": {
+    "infra": {
+      "title": "Mission-Critical IT Infrastructure",
+      "subtitle": "We design and operate network, compute, and storage infrastructure for mission-critical environments",
+      "description": "We implement networks, x86 compute platforms, and IBM Power Systems (AIX and Linux), as well as storage and data protection systems designed to ensure continuity, high performance, and security in enterprise environments.",
+      "points": [
+        "Network design and implementation",
+        "x86 compute platforms",
+        "Storage and backup systems"
+      ]
+    },
+    "services": {
+      "title": "Specialized Services",
+      "subtitle": "Experts in technologies that enable secure and fast services",
+      "description": "A team of specialists in various technologies that enable secure and fast services.",
+      "points": [
+        "Multiplatform infrastructure",
+        "Virtual environment re-engineering",
+        "Support and Help Desk"
+      ]
+    },
+    "saas": {
+      "title": "SaaS Orchestration",
+      "subtitle": "Full control, protection, and management of your data in Microsoft 365, Google, and other SaaS platforms.",
+      "description": "We implement solutions to migrate, protect, and govern cloud data, integrating leading technologies that ensure continuity, compliance, and total visibility.",
+      "points": [
+        "Tenant-to-tenant and cross-ecosystem migration (Microsoft 365 ↔ Google)",
+        "Backup and recovery for SaaS applications",
+        "Information lifecycle classification",
+        "Sensitive data governance and security",
+        "Operational continuity and protection against loss or corruption",
+        "Integrated technology: AvePoint · Varonis · Datto (Kaseya) · Nimboxe"
+      ]
+    },
+    "archive": {
+      "title": "Digital Archive",
+      "subtitle": "Secure, organized, and efficient enterprise archiving.",
+      "description": "Digital Archive organizes and moves large volumes of data to the appropriate storage—disk, tape, or cloud—without interrupting operations. It lets you analyze your data, migrate it intelligently, and keep it protected and ready for future needs, including analytics and AI.",
+      "points": [
+        "Clear visibility of your data.",
+        "Automatic archiving without affecting systems.",
+        "Fast and optimized migration.",
+        "Data ready for analytics and AI."
+      ]
+    },
+    "cyber": {
+      "title": "CyberResilience",
+      "subtitle": "Comprehensive protection to keep your data safe and your operations running",
+      "description": "Our solutions ensure that critical information remains available and recoverable even in the face of attacks or incidents. We combine immutable storage, isolated backups, and rapid recovery to guarantee continuity.",
+      "points": [
+        "Advanced data protection: encryption, isolation, and immutability",
+        "Secure access control and auditing",
+        "Offsite, offline, and cloud backup",
+        "Fast and reliable recovery to restore operations",
+        "Technology ecosystem: Veeam, ObjectFirst, Spectra Logic, Nimboxe"
+      ]
+    }
+  },
+  "solutions_page": {
+    "header": {
+      "title": "Solutions <span class=\"bg-gradient-to-r from-violet-600 to-fuchsia-500 bg-clip-text text-transparent\">Technology</span>",
+      "subtitle": "Discover our innovative solutions"
+    }
+  }
+}
