@@ -1,14 +1,19 @@
 import { StrictMode } from 'react';
 import { createRoot } from 'react-dom/client';
-import { createBrowserRouter, RouterProvider } from 'react-router-dom';
+// 1. Cambiamos createBrowserRouter por createHashRouter
+import { createHashRouter, RouterProvider } from 'react-router-dom';
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
-import './index.css'; // Tailwind CSS y estilos globales
-import "./i18n" // * Manejo de idiomas
+import router from './routes';
+import './index.css'; 
+import "./i18n";
 
-import ReactDOM from "react-dom/client";
-import { router } from "./routes";
+// 2. Inicializamos el hash router (no requiere parámetros extra)
+const appRouter = createHashRouter(router);
 
-ReactDOM.createRoot(document.getElementById("root")!).render(
-  <RouterProvider router={router} />
+createRoot(document.getElementById('root')!).render(
+  <StrictMode>
+    <RouterProvider router={appRouter} />
+    <ToastContainer />
+  </StrictMode>
 );
