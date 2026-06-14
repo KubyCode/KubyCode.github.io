@@ -1,24 +1,16 @@
 // src/routes/index.tsx
-import type { RouteObject } from 'react-router-dom';
-import { Navigate } from 'react-router-dom';
-import Aloo from '../features/Aloo';
-import Menora from '../features/Menora';
 
-const router: RouteObject[] = [
+import { createBrowserRouter } from "react-router-dom";
+import Aloo from "../features/Aloo";
+import Menora from "../features/Menora";
+
+export const router = createBrowserRouter([
   {
-    path: '/',
+    path: "/",
     element: <Aloo />,
   },
   {
-    path: '/menora',
+    path: "/menora",
     element: <Menora />,
   },
-
-  {
-    // Ruta catch-all → redirige al inicio
-    path: '*',
-    element: <Navigate to="/" replace />,
-  },
-];
-
-export default router;
+]);
