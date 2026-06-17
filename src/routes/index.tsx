@@ -23,4 +23,4 @@ const router: RouteObject[] = [
   },
 ];
 
-export default router;
+export default router; 
